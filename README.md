@@ -1,4 +1,6 @@
-### Hi there 👋
+### Aplikasi Kalkulator Sederhana Menggunakan HTML, CSS DAN JS
+### Untuk memenuhi tugas Progate
+by Nur Zelina - 149173029100-1511
 
 <!--
 **NurZelina/NurZelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
